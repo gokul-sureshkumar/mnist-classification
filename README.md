@@ -26,8 +26,8 @@ Data: The MNIST dataset, a widely used benchmark for image classification, conta
 
 ## PROGRAM
 
-### Name: Ronick Aakshath P
-### Register Number: 212222240084
+### Name: GOKUL S
+### Register Number: 212222110011
 ```python
 import numpy as np
 from tensorflow import keras
